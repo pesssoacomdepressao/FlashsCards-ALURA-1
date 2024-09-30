@@ -15,3 +15,9 @@ criaCartao(
     'Qual a capital da França?',
     'Paris'
 )
+
+criaCartao(
+    'Quimica',
+    'Atualemte, quantos elementos químicos a tabela peroódica possui?',
+    '118 Elementos'
+)
